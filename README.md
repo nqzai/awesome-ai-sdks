@@ -131,7 +131,7 @@ Kakunin is compliance and identity infrastructure for AI agents — it issues X.
 
 ### Links
 - [Web](https://www.kakunin.ai/)
-- [GitHub](https://github.com/nqzai/kakunin-core)
+- [GitHub](https://github.com/kakunin-ai/kakunin-core)
 - [Docs](https://www.kakunin.ai/docs)
 
 </details>
